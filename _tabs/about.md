@@ -16,7 +16,7 @@ Relentless in pursuit and inexhaustible in commitment, we stand at the forefront
 - Pentesting
 - Malware Analysis
 - Bug Bounty Hunting
-- Web3 technologies
+- Web3 Technologies
 
 ## My Projects
 
