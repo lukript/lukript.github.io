@@ -10,7 +10,7 @@ This site serves as a platform for research, malware analysis, and practical ins
 
 Relentless in pursuit and inexhaustible in commitment, we stand at the forefront of uncovering vulnerabilities, securing systems through adversarial testing, and pushing the boundaries of decentralized innovation.
 
-## My Interests
+## Interests
 
 - Cybersecurity
 - Pentesting
@@ -18,11 +18,11 @@ Relentless in pursuit and inexhaustible in commitment, we stand at the forefront
 - Bug Bounty Hunting
 - Web3 Technologies
 
-## My Projects
+## Projects
 
 - [Security Tools](https://github.com/lukript/security-tools)
 
-## My Certifications
+## Certifications
 
 - CompTIA Security+ (pass)
 - CompTIA PenTest+ (coming soon)
