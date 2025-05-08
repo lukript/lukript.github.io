@@ -8,7 +8,7 @@ mermaid: true
 image: https://i.pinimg.com/736x/cc/cc/f9/ccccf9f7dc4b5faa34d32503e314ac1c.jpg
 ---
 
-This week’s objective is lies on revisiting key concepts of blockchain technology by reviewing  official documentation and papers (linked below) and applying them to the Cardano Network.
+This week’s objective is to revisit core concepts of blockchain technology through an in-depth review of official documentation and foundational papers (linked below), with a focus on applying these principles within the context of the Cardano Network.
 
 ## Blockchain
 
@@ -55,9 +55,11 @@ This week’s objective is lies on revisiting key concepts of blockchain technol
 
 ## Cardano Academy
 
-I stumpled upon [Cardano Academy](https://cardano.academy/) while browsing the internet. It's a good starting point to understand the key concepts of Cardano and blockchain technology in general. Best part is that it's free and you'll get a certificate at the end of the course (which is always a good motivation booster).
+I recently came across [Cardano Academy](https://cardano.academy/) while browsing the internet. It offers a well-structured introduction to blockchain fundamentals and the Cardano ecosystem, including topics such as the Ouroboros proof-of-stake protocol, smart contracts, and decentralized governance. One notable feature is the issuance of a certificate upon course completion, which adds credibility and serves as a motivational incentive.
 
-Did the CBCA Practice Exam today, going to do more of the course tomorrow. Today is more about reading the NISTIR 8202 paper and the Blockchain Fundamentals paper.
+Completed the CBCA Practice Exam today and plan to continue with more of the course content tomorrow. Today’s focus is on deepening my theoretical foundation—specifically by studying the NISTIR 8202: Blockchain Technology Overview and the Blockchain Fundamentals paper. Taking a balanced approach between applied learning and conceptual understanding.
+
+---
 
 ## Supecharge Your Learning
 

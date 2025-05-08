@@ -8,15 +8,17 @@ mermaid: true
 image: /assets/img/posts/20250215/Hardening.jpeg
 ---
 
-This might seem obvious, but it's important to note that the most secure systems are the ones that are least likely to be compromised. This is why we need security measures in place to protect our systems.
+It may seem self-evident, but the most secure systems are inherently those least susceptible to compromise. This principle underpins why organizations invest heavily in layered security measures to safeguard their infrastructure.
 
 ## Implementing Secure Systems
 
-On today's blog post, I'll be discussing the importance of hardening workstations and servers.
+Today, we’ll briefly review several fundamental system hardening techniques.
 
-**Note:** Applications, services, and protocols that are strictly necessary for the operation of the system should be the only ones running on the system to reduce the attack surface.
+One of the core principles is least privilege—a concept that applies broadly across both endpoint security and secure system architecture. By ensuring that users and services operate with only the permissions they need, we significantly reduce potential attack vectors.
 
-First, let's cover endpoint security software.
+**Note:** Only applications, services, and protocols essential to the system’s core functionality should be active. This minimizes the attack surface and improves overall security posture.
+
+To start, let’s take a closer look at endpoint security solutions.
 
 ### 1. Endpoint Security Software
 
