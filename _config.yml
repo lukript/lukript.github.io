@@ -16,7 +16,7 @@ timezone:
 
 title: lukript # the main title
 
-tagline: Security write-ups # it will display as the subtitle
+tagline: Security Write-ups # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Security write-ups
